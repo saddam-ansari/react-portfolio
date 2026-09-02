@@ -1,16 +1,97 @@
-# React + Vite
+# Saddam Mian — React JS Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my experience, skills, projects and frontend development work.
 
-Currently, two official plugins are available:
+## Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://react-portfolio-five-zeta-51.vercel.app
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a React JS Developer with 7+ years of IT experience and 4+ years working with React.
 
-## Expanding the ESLint configuration
+This portfolio highlights my experience in building responsive and maintainable web applications using React JS, JavaScript and modern frontend technologies. It also reflects my ongoing growth in full-stack development with Node.js, Express.js and PostgreSQL.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+### Frontend
+- React JS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- React Router
+
+### State & Data
+- Redux Toolkit
+- RTK Query
+- React Query
+- Context API
+- Axios
+- REST APIs
+
+### Backend & Database
+- Node.js
+- Express.js
+- PostgreSQL
+- SQL
+- JWT
+
+### Tools & Testing
+- Git
+- GitHub
+- Vite
+- Webpack
+- React Testing Library
+- Jest
+
+## Features
+
+- Responsive portfolio design
+- React-based component architecture
+- Client-side routing
+- Mobile navigation
+- Experience and skills sections
+- Project showcase
+- Developer dashboard
+- Education and certifications
+- Contact section
+- 404 page
+- Scroll progress indicator
+- Scroll-to-top functionality
+- SEO metadata
+- Production deployment with Vercel
+
+## Projects
+
+### Quality Control Management System
+
+A personal full-stack application for managing quality inspections, reporting defects and tracking inspection progress.
+
+**Technologies:** React JS, JavaScript, Redux Toolkit, React Router, Axios, Node.js, Express.js and PostgreSQL.
+
+### Project Management Dashboard
+
+A planned responsive dashboard concept for tracking projects, tasks, progress and team activity.
+
+**Technologies:** React JS, JavaScript, Tailwind CSS and React Router.
+
+### E-Commerce Frontend
+
+A planned frontend application focused on reusable React components, product browsing, filtering and shopping cart functionality.
+
+**Technologies:** React JS, JavaScript, Redux Toolkit, Tailwind CSS and REST APIs.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/saddam-ansari/react-portfolio.git
